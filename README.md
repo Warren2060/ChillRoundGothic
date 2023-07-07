@@ -1,6 +1,4 @@
-# ChillRoundGothic
-
-## 寒蝉圆黑体
+# 寒蝉圆黑体ChillRoundGothic
 基于思源黑体(SourceHanSansSC)的圆角化改变。
 
 ![ChillRoundGothic-01](https://github.com/Warren2060/ChillRoundGothic/assets/87366329/92470446-929c-4e12-80f5-06abb23a6b27)
